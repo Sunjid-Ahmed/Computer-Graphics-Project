@@ -104,16 +104,15 @@ The final output is an interactive 2D visualization of the DIU campus, featuring
 ---
 
 ## 👨‍💻 Team Members
+### Sunjid Ahmed Siyem
+
+**Student ID:** 232-15-728
+Department of Computer Science and Engineering
+Daffodil International University
 
 ### Mirza Md Mahmudunnobi Babu
 
 **Student ID:** 232-15-709
-Department of Computer Science and Engineering
-Daffodil International University
-
-### Sunjid Ahmed Siyem
-
-**Student ID:** 232-15-728
 Department of Computer Science and Engineering
 Daffodil International University
 
