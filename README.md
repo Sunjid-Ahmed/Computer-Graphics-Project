@@ -1,10 +1,6 @@
 # 🏙️ Daffodil Smart City Visualization
 
 <p align="center">
-  <img src="output.png" alt="Daffodil Smart City Visualization Output" width="900">
-</p>
-
-<p align="center">
   <b>An Interactive 2D Computer Graphics Visualization of Daffodil International University</b>
 </p>
 
@@ -102,7 +98,7 @@ The final output is an interactive 2D visualization of the DIU campus, featuring
 ### Final Output Screenshot
 
 <p align="center">
-  <img src="output.png" alt="Final Output of Daffodil Smart City Visualization" width="900">
+  <img src="bin/Debug/diu_cricket_preview.png" alt="Final Output of Daffodil Smart City Visualization" width="900">
 </p>
 
 ---
