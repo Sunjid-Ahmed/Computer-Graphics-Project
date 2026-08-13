@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1786421877 source:d:\download\computer graophics\computer graphics lab project\diu_cricket.cpp
+	<GL/glut.h>
+	<cmath>
+	<cstdio>
+	<cstdlib>
+	"stb_image.h"
+	<windows.h>
+	<mmsystem.h>
+
+1785345578 e:\cg lab\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1785345578 e:\cg lab\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1786418357 d:\download\computer graophics\computer graphics lab project\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
