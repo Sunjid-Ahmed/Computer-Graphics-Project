@@ -126,10 +126,6 @@ Daffodil International University
 **University:** Daffodil International University
 **Project:** Daffodil Smart City Visualization
 
-**Supervisor:** Faiza Feroz
-Lecturer, Department of Computer Science and Engineering
-Daffodil International University
-
 ---
 
 ## 🚀 Future Improvements
@@ -150,6 +146,7 @@ Possible future improvements include:
 ## 📄 Project Report
 
 The complete academic project report is included in this repository for detailed information about the system architecture, implementation, algorithms, transformations, animation logic, results, and future work.
+👉 [View Project Report](https://drive.google.com/file/d/1kzIqJWXEQdoYqFqau80UhhorxjVe8Hd2/view?usp=sharing)
 
 ---
 
