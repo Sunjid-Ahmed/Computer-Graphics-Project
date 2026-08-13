@@ -152,3 +152,12 @@ The complete academic project report is included in this repository for detailed
 ## ⭐ Project Highlights
 
 > A practical demonstration of how **C++ and OpenGL** can be used to transform a real-world university campus into an interactive and animated 2D digital environment.
+
+
+## 📜 License
+
+This project is licensed under the MIT License.
+
+Copyright (c) 2026 Mirza Md Mahmudunnobi Babu and Sunjid Ahmed Siyem
+
+See the [LICENSE](LICENSE) file for details.
